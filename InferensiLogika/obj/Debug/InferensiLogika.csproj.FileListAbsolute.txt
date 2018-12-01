@@ -1,0 +1,10 @@
+D:\Filkom\IF UB\Logika Fuzzy\Projek Akhir Semester\InferensiLogika\InferensiLogika\bin\Debug\InferensiLogika.exe.config
+D:\Filkom\IF UB\Logika Fuzzy\Projek Akhir Semester\InferensiLogika\InferensiLogika\bin\Debug\InferensiLogika.exe
+D:\Filkom\IF UB\Logika Fuzzy\Projek Akhir Semester\InferensiLogika\InferensiLogika\bin\Debug\InferensiLogika.pdb
+D:\Filkom\IF UB\Logika Fuzzy\Projek Akhir Semester\InferensiLogika\InferensiLogika\obj\Debug\InferensiLogika.csprojAssemblyReference.cache
+D:\Filkom\IF UB\Logika Fuzzy\Projek Akhir Semester\InferensiLogika\InferensiLogika\obj\Debug\InferensiLogika.Form1.resources
+D:\Filkom\IF UB\Logika Fuzzy\Projek Akhir Semester\InferensiLogika\InferensiLogika\obj\Debug\InferensiLogika.Properties.Resources.resources
+D:\Filkom\IF UB\Logika Fuzzy\Projek Akhir Semester\InferensiLogika\InferensiLogika\obj\Debug\InferensiLogika.csproj.GenerateResource.cache
+D:\Filkom\IF UB\Logika Fuzzy\Projek Akhir Semester\InferensiLogika\InferensiLogika\obj\Debug\InferensiLogika.csproj.CoreCompileInputs.cache
+D:\Filkom\IF UB\Logika Fuzzy\Projek Akhir Semester\InferensiLogika\InferensiLogika\obj\Debug\InferensiLogika.exe
+D:\Filkom\IF UB\Logika Fuzzy\Projek Akhir Semester\InferensiLogika\InferensiLogika\obj\Debug\InferensiLogika.pdb
