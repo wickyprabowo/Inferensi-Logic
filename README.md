@@ -1,1 +1,1 @@
-Inferensi Logic
+Final Project of Logic fuzzy
